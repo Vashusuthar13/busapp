@@ -125,7 +125,7 @@ class Login_page extends StatelessWidget {
                           
                           Padding(
 
-                            padding: const EdgeInsets.only(top: 20),
+                            padding: const EdgeInsets.only(top: 21),
                             child: Text("you don't have an account? SIGN UP", style: TextStyle(color: Colors.white),),
                           ),
 
